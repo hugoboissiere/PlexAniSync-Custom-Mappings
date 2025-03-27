@@ -2915,6 +2915,17 @@ entries:
       - season: 1
         anilist-id: 101289
 
+  - title: "The Melancholy of Haruhi Suzumiya"
+    guid: plex://show/5d9c0827705e7a001e6d4307
+    # imdb: https://www.imdb.com/title/tt0816407/
+    # tmdb: https://www.themoviedb.org/tv/42511
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79414
+    seasons:
+      - season: 1
+        anilist-id: 4382
+      - season: 2
+        anilist-id: 4382
+
   - title: "The Misfit of Demon King Academy"
     guid: plex://show/5e204255072b9e003ca5c160
     # imdb: https://www.imdb.com/title/tt12432936/
